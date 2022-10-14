@@ -38,4 +38,8 @@ func main() {
 	fmt.Println(compressString("abbbc"))
 	fmt.Println(compressString("aac"))
 	fmt.Println(compressString("abccc"))
+
+	fmt.Println(compressString("ааббсс"))
+
+	fmt.Println(compressString("ФФоУУ"))
 }
